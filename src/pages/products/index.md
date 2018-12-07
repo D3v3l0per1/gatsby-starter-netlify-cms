@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -98,4 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: This is lit af mofucka
+      items:
+        - 1rst u got everything u want nibba
+        - just pay I'm poor af nigg
+        - lolllll
+      plan: Ultra VIP+
+      price: '100'
 ---
+
